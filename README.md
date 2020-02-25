@@ -6,4 +6,4 @@ List of literature for multi-omics data analysis.
 
 ### Metabolomics
 
-- 2020 - Pohla - [Hyperproliferation is the main driver of metabolomic changes in psoriasis lesional skin](https://doi.org/10.1038/s41598-020-59996-z)
+- 2020 - Pohla - [Hyperproliferation is the main driver of metabolomic changes in psoriasis lesional skin](https://doi.org/10.1038/s41598-020-59996-z) - lesional vs non-lesional vs healthy skin - 29 metabolites
