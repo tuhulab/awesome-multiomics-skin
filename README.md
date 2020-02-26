@@ -1,6 +1,6 @@
 # awesome-multiomics-skin
 
-This repo collects literatures for multiomics skin research, with support from LEO Pharma Scientic Informatics.
+This repo collects literatures for multiomics skin research.
 
 ## Atopic Dermatitis
 
