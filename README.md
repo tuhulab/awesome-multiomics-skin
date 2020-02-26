@@ -1,6 +1,6 @@
 # awesome-multiomics-skin
 
-This repo collects literatures for multiomics skin research.
+This repo collects literatures for multiomics skin research from Jan, 2020.
 
 ## Atopic Dermatitis
 
