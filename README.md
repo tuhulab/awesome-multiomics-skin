@@ -11,7 +11,7 @@ This repo collects literatures for multiomics skin research.
   - Fibroblasts demonstrated a novel COL6A5+COL18A1+ subpopulation that was unique to lesional AD, and expressed CCL2 and CCL19 cytokines. A corresponding LAMP3+ dendritic cell (DC) population that expressed the CCL19 receptor CCR7 was also unique to AD lesions, illustrating a potential role for fibroblast signaling to immune cells. Lesional AD samples were characterized by expansion of inflammatory DCs (CD1A+FCER1A+) and tissue resident memory T-cells (CD69+CD103+). The frequencies of type 2 (IL13+)/type 22 (IL22+) T-cells were higher than type 1 (IFNG+) in lesional AD, while this ratio was diminished slightly in non-lesional AD and further in controls.
 
 - 2020 - Ghosh - [The Utility of A Transcriptomic Signature to Assess Atopic Dermatitis Treatment Outcomes](http://dx.doi.org/10.1016/j.jaci.2019.12.270)
-  - Use 89ADGES and tr-DEGs to predict treatment response to topical corticosteroids and calcineurin inhibitors
+  - Drug response (Use 89ADGES and tr-DEGs to predict treatment response to topical corticosteroids and calcineurin inhibitors)
 
 ### Proteomics
 
