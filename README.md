@@ -44,6 +44,11 @@ This repo collects literatures for multiomics skin research.
   - medical history; WGS + sanger sequencing; RNA sequencing; enzyme linked immunosorbent assay kit
   - HLA allele, loss-of-function variants of C3, de novo mutation
 
+### Transcriptomics
+- 2020 - Choudhary - [Decoding Psoriasis: Integrated Bioinformatics Approach to Understand Hub Genes and Involved Pathways](http://dx.doi.org/10.2174/1381612826666200311130133)
+  - DEG analysis (affy package) by integrating GSE13355 and GSE14905 (microarray); clusterProfiler - KEGG; Cytoscape - protein interaction networ; Cytohubba; MCODE
+  - Hub genes (CCNB1, CCNA2, CDK1, IL1B, CXCL8, MKI 67, ESR1, UBE2C, STAT1 and STAT3); cytokines-cytokine receptor
+
 ### Metabolomics
 - 2019 - Damiani - [From heat maps to artificial neural networks: Multi-bioinformatics identify distinct subsets (endotypes) of psoriasis based on the metabolome of their uninvolved skin](http://dx.doi.org/10.1016/j.jid.2019.03.958)
   - Lesional + Non-lesional skin
