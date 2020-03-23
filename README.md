@@ -67,8 +67,14 @@ This repo collects literatures for multiomics skin research.
 
 ## Auto-immune disease
 
+### Multi-omics
+- 2020 - Song - [Advances in applying of multi-omics approaches in the research of systemic lupus erythematosus](http://dx.doi.org/10.1080/08830185.2020.1736058)
+  - Systemic lupus erythematosus (SLE)
+  - Knowledge-based integration (without running experiments); Genomics, epigenome, transcriptomics, proteomics, metabolomics
+
 ### Metabolomics
 
 - 2019 - Toth - [Comparative metabolomic and lipidomic analysis of serum samples from patients with seronegative rheumatoid arthritis and psoriatic arthritis](http://dx.doi.org/10.1136/annrheumdis-2018-EWRR2019.157)
   - Metabolomics + Lipidomics
   - NMR
+  
