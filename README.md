@@ -4,6 +4,12 @@ This repo collects literatures for multiomics skin research.
 
 ## Atopic Dermatitis
 
+### Multi-omics
+
+- 2020 - Rojahn - [Single-cell transcriptomics combined with interstitial fluid proteomics defines cell-type-specific immune regulation in atopic dermatitis](http://dx.doi.org/10.1016/j.jaci.2020.03.041)
+  - Single-cell transcriptomics (10X genomics) & Proteomics (OLINK)
+  - Skin biopsy & suction blistering
+
 ### Transcriptomics
 
 - 2020 - He - [Single-cell transcriptome analysis of human skin identifies novel fibroblast subpopulation and enrichment of immune subsets in atopic dermatitis](http://dx.doi.org/10.1016/j.jaci.2020.01.042) 
