@@ -10,6 +10,12 @@ This repo collects literatures for multiomics skin research.
   - Single-cell transcriptomics (10X genomics) & Proteomics (OLINK)
   - Skin biopsy & suction blistering
 
+- 2020 - Guo - [Identifying Shared Risk Genes for Asthma, Hay Fever, and Eczema by Multi-Trait and Multiomic Association Analyses](http://dx.doi.org/10.3389/fgene.2020.00270)
+  - Multi-trait (AD, hay fever and asthma)
+  - Multi-omics (genomics and transcriptomics)
+  - LDSC (linkage disequilibrium score regression), metaCCA multi-trait GWAS, MAGMA
+  - MetaXcan (integrate eQTL with GWAS results)
+
 ### Transcriptomics
 
 - 2020 - He - [Single-cell transcriptome analysis of human skin identifies novel fibroblast subpopulation and enrichment of immune subsets in atopic dermatitis](http://dx.doi.org/10.1016/j.jaci.2020.01.042) 
@@ -23,8 +29,9 @@ This repo collects literatures for multiomics skin research.
 
 ### Proteomics
 
-- 2020 - Goleva - [Skin Tape Strip Proteomics Identifies Novel Pathways in Children with Atopic Dermatitis and Food Allergy](http://dx.doi.org/10.1016/j.jaci.2019.12.282)
+- 2020 - Goleva - [Skin tape proteomics identifies pathways associated with transepidermal water loss and allergen polysensitization in atopic dermatitis](https://doi.org/10.1016/j.jaci.2020.04.022)
   - Skin tape strip
+  - Principle component analysis, LASSO regression
 
 - 2020 - Pavel - [The proteomic skin profile of moderate-to-severe atopic dermatitis patients shows an inflammatory signature](https://doi.org/10.1016/j.jaad.2019.10.039) 
   - Lesional vs non-lesional skin and blood 
