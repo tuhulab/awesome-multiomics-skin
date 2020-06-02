@@ -40,7 +40,7 @@ This repo collects literatures for multiomics skin research.
 
 ### Metabolomics
 
-- 2016 - Ono - [Metabolomics analysis of sweat derived from atopic dermatitis by use of nuclear magnetic resonance](https://doi.org/10.1016/j.jdermsci.2017.02.088)
+- 2016 - Ono - [Metabolomic analysis of sweat revealed glucose as a biomarker of atopic dermatitis](https://doi.org/10.1016/j.jdermsci.2017.02.088)
   - Sweet
   - NMR
 
@@ -48,7 +48,12 @@ This repo collects literatures for multiomics skin research.
   - Serum
   - CIL LC-MS
 
--
+### Lipidomics
+
+- 2019 - Wang - [Application of lipidomics to reveal differences of facial skin surface lipids between atopic dermatitis and healthy infants](http://dx.doi.org/10.1111/jocd.13188)
+  - 29 facial lipids discriminates AD and control
+  - OPLS-DA (The authors used OPLS-DA without any validation. This could result in false discovery.)
+
 
 ## Psorasis
 
