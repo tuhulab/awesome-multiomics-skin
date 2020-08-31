@@ -29,6 +29,9 @@ This repo collects literatures for multiomics skin research.
 
 ### Proteomics
 
+- 2020 - He - [Tape-Strip Proteomic Profiling of Atopic Dermatitis on Dupilumab Identifies Minimally Invasive Biomarkers](https://www.frontiersin.org/articles/10.3389/fimmu.2020.01768/full)
+  - Skin tape strip (before and after dupilumab therapy); 26 patients; Olink 
+
 - 2020 - Goleva - [Skin tape proteomics identifies pathways associated with transepidermal water loss and allergen polysensitization in atopic dermatitis](https://doi.org/10.1016/j.jaci.2020.04.022)
   - Skin tape strip
   - Principle component analysis, LASSO regression
