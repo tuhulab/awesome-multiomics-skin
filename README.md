@@ -29,8 +29,16 @@ This repo collects literatures for multiomics skin research.
 
 ### Proteomics
 
+- 2020 - Kandil - [Proteomic analysis of bacterial communities associated with atopic dermatitis](http://dx.doi.org/10.1016/j.jprot.2020.103944)
+  - AD skin bacterial communities; skin scraping technique; LC-MS/MS
+
 - 2020 - He - [Tape-Strip Proteomic Profiling of Atopic Dermatitis on Dupilumab Identifies Minimally Invasive Biomarkers](https://www.frontiersin.org/articles/10.3389/fimmu.2020.01768/full)
-  - Skin tape strip (before and after dupilumab therapy); 26 patients; Olink 
+  - Skin tape strip (before and after dupilumab therapy); 26 patients (LS & NL); Olink 
+  - 136 proteins (66.2% of profiled proteins) significantly decreased LS vs NN (FC > 1.5, FDR < 0.05)
+    - Inflammation (MMP12), Th2 (CCL13/CCL17), Th17/Th22(IL-12B, CXCL1, S100A12), Innate immunity (IL-6, IL-8, IL-17C) decreased
+    - Th1 chemokines (CXCL9/CXCL10) remained elevated
+    - Atherosclerosis/cardiovascular risk (SELE/E-selectin, IGFBP7, CHIT1/chitotriosidase-1, AXL) decreased
+  
 
 - 2020 - Goleva - [Skin tape proteomics identifies pathways associated with transepidermal water loss and allergen polysensitization in atopic dermatitis](https://doi.org/10.1016/j.jaci.2020.04.022)
   - Skin tape strip
