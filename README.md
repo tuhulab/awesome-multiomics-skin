@@ -61,6 +61,12 @@ This repo collects literatures for multiomics skin research.
 
 ### Lipidomics
 
+- 2020 - Emmert - [Stratum Corneum Lipidomics Analysis Reveals Altered Ceramide Profile in Atopic Dermatitis Patients Across Body Sites With Correlated Changes in Skin Microbiome](https://doi.org/10.1111/exd.14185)
+  - stratum corneum lipidome, skin microbiome, skin physiology parameter
+  - 3 different body sites
+  - AD vs CO
+  - Metabolon MS platform
+
 - 2019 - Wang - [Application of lipidomics to reveal differences of facial skin surface lipids between atopic dermatitis and healthy infants](http://dx.doi.org/10.1111/jocd.13188)
   - 29 facial lipids discriminates AD and control
   - OPLS-DA (The authors used OPLS-DA without any validation. This could result in false discovery.)
