@@ -18,6 +18,9 @@ This repo collects literatures for multiomics skin research.
 
 ### Transcriptomics
 
+- 2020 - Federico - [Manually curated and harmonised transcriptomics datasets of psoriasis and atopic dermatitis patients](https://doi.org/10.1038/s41597-020-00696-8)
+  - Curated RNA-seq and microarray data for AD and PSO
+
 - 2020 - He - [Single-cell transcriptome analysis of human skin identifies novel fibroblast subpopulation and enrichment of immune subsets in atopic dermatitis](http://dx.doi.org/10.1016/j.jaci.2020.01.042) 
   - Single-cell
   - Skin - 5 AD (4 LS & 5 NL) vs 7 CO
